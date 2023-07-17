@@ -1,0 +1,12 @@
+Official: nimal,nimal@gmail.com,ceo
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Personal: sunil,<nick-name>,sunil@gmail.com,2000/10/10
+Personal: Inuka,Play Boy,ampavilatest@gmail.com,2000/07/21
+Personal: Isuru,Meme King,isurujavaemailclient@gmail.com,2000/07/21
+Personal: Joel,Joy,joelsathiyendra@gmail.com,2000/08/04
+Personal: Radith,Hecker,radith.testing@gmail.com,2000/08/04
+Official: BatMan,abcd@gmail.com,ceo
+Official: Sandil, sandil@gmail.com, ceo
+Personal: Kavindu,kavi,kavi@gmail.com, 2000/12/21
+Personal: AKavindu, akavi, AKWarnakulasuriya@gmail.com, 2022/09/22
+Personal: Sasindu, sasi, sasindu@gmail.com, 2022/09/23
